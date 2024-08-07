@@ -1,0 +1,1 @@
+It is a web page to generate the random color with its RGB values
